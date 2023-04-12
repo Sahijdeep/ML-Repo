@@ -1,5 +1,9 @@
 import streamlit as st
 import plotly.express as px
+<p align = "center" draggable=”false” ><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8HNB-ex4xb4H3-PXRcywP5zKC_3U8VzQTPA&usqp=CAU" 
+     width="200px"
+     height="auto"/>
+</p>
 
 def app():
     st.image('./Streamlit_UI/Header.gif', use_column_width=True)
